@@ -233,4 +233,4 @@ This repository serves as the official landing page for The Plucky Squire. The s
 **Get the most recent version of The Plucky Squire today!**
 
 ---
-**Last updated:** 2026-09-30 22:41:38 UTC
+**Last updated:** 2026-10-01 01:39:18 UTC
